@@ -3709,7 +3709,7 @@ transform: scale(1.03);
   font-family: "Gilroy-Bold", Helvetica;
   font-size: 16px;
   height: auto;
-  left: 53px;
+  left: 34px;
   letter-spacing: 0.00px;
   line-height: 20px;
   position: absolute;
@@ -5318,6 +5318,11 @@ color:#0073E2;
 
 transform: scale(1.03);
 }
+
+.highSpacing{
+  letter-spacing: 2px !important;
+}
+
 .web .try-it-for-free-ghsXdg {
   background-color: transparent;
   color: var(--science-blue);
